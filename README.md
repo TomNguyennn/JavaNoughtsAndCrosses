@@ -18,7 +18,6 @@ A Java implementation of the classic Noughts and Crosses (Tic-Tac-Toe) game, bui
 - [Future Enhancements](#future-enhancements)  
 - [Known Issues](#known-issues)  
 - [Credits](#credits)  
-- [License](#license)
 
 ---
 
